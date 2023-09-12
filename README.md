@@ -1,2 +1,2 @@
 # Useful-Scripts
-Useful scripts that have helped me through my IT career
+Useful scripts that have helped me through out my IT career
